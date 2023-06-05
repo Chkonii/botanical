@@ -1,0 +1,26 @@
+.icon-arrow{
+  display: none !important;
+
+}
+
+
+.icon-heart{
+  display: none !important;
+}
+
+.icon-cart.selected{
+  background-color: #5ba515 !important;
+}
+
+.icon-cart.selected::before{
+  fill: #fff !important;
+}
+
+/* .jcf-number{
+  display: none !important; 
+}
+
+#jcf-number-2{
+  display: inline-block !important;
+} */
+
